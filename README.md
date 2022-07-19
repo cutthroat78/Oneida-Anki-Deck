@@ -11,7 +11,6 @@ My anki deck for the Oneida Language
 ```
 {{FrontSide}}
 <hr id=answer>
-<br>
 {{English}}
 <br>
 <i>{{Oneida Example}}{{Oneida Example Audio}}</i>
@@ -21,29 +20,42 @@ My anki deck for the Oneida Language
 ## Card 2: English -> Oneida
 ### Front
 ```
-to do
+{{English}}
 ```
 ### Back
 ```
-to do
+{{FrontSide}}
+<hr id=answer>
+{{Oneida}}{{Oneida Audio}}
+<div style='font-size: 15px;'>{{Dialect}}</div>
+<br>
+<i>{{Oneida Example}}{{Oneida Example Audio}}</i>
+<div style='font-size: 15px;'>{{Example in English}}</div>
+{{Image}}
 ```
 ## Card 3: Oneida Example -> Example in English
 ### Front
 ```
-to do
+{{Oneida Example}}{{Oneida Example Audio}}
+<div style='font-size: 15px;'>{{Dialect}}</div>
 ```
 ### Back
 ```
-to do
+{{FrontSide}}
+<hr id=answer>
+{{Example in English}}
 ```
 ## Card 4: Example in English -> Oneida Example
 ### Front
 ```
-to do
+{{Example in English}}
 ```
 ### Back
 ```
-to do
+{{FrontSide}}
+<hr id=answer>
+{{Oneida Example}}{{Oneida Example Audio}}
+<div style='font-size: 15px;'>{{Dialect}}</div>
 ```
 ## Styling
 ```
