@@ -1,5 +1,9 @@
 # Oneida Anki Deck
 My anki deck for the Oneida Language
+# To Do
+- Add Oneida (Wisconsin) Words from [this](https://www.uwgb.edu/dictionary/)
+- Look at language resources to see if any other good resources to add to this anki deck
+- Reorder words (Change order using position in csv file)
 # Note Type Code
 ## Card 1: Oneida -> English
 ### Front
