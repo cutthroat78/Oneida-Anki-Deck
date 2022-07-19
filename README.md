@@ -1,12 +1,13 @@
 # Oneida Anki Deck
-
+My anki deck for the Oneida Language
 # Note Type Code
-## Front
+## Card 1: Oneida -> English
+### Front
 ```
 {{Oneida}}
 <div style='font-size: 15px;'>{{Dialect}}</div>
 ```
-## Back
+### Back
 ```
 {{FrontSide}}
 <hr id=answer>
@@ -14,9 +15,36 @@
 <br>
 {{English}}
 <br>
-<i>{{Oneida Sentence}}{{Oneida Sentence Audio}}</i>
-<div style='font-size: 15px;'>{{English Sentence}}</div>
+<i>{{Oneida Example}}{{Oneida Example Audio}}</i>
+<div style='font-size: 15px;'>{{Example in English}}</div>
 {{Image}}
+```
+## Card 2: English -> Oneida
+### Front
+```
+to do
+```
+### Back
+```
+to do
+```
+## Card 3: Oneida Example -> Example in English English
+### Front
+```
+to do
+```
+### Back
+```
+to do
+```
+## Card 4: Example in English -> Oneida Example
+### Front
+```
+to do
+```
+### Back
+```
+to do
 ```
 ## Styling
 ```
