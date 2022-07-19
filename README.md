@@ -27,7 +27,7 @@ to do
 ```
 to do
 ```
-## Card 3: Oneida Example -> Example in English English
+## Card 3: Oneida Example -> Example in English
 ### Front
 ```
 to do
