@@ -1,23 +1,24 @@
-# Template-Language-Anki-Deck
+# Oneida Anki Deck
 
 # Note Type Code
 ## Front
 ```
 {{Gender}}
 <br>
-{{Target Language Word}}
+{{Oneida Word}}
+{{Dialect}}
 ```
 ## Back
 ```
 {{FrontSide}}
 <hr id=answer>
-{{Reading}}{{Target Language Audio}}
+{{Oneida Audio}}
 <br>
-{{Source Langauge Word}}
+{{English Word}}
 <br>
-{{Target Language Sentence}}{{Target Language Sentence Audio}}
+{{Oneida Sentence}}{{Oneida Sentence Audio}}
 <br>
-<p>{{Source Language Sentence}}</p>
+<p>{{English Sentence}}</p>
 {{Image}}
 ```
 ## Styling
