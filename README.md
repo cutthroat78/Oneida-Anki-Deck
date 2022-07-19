@@ -28,7 +28,6 @@ My anki deck for the Oneida Language
 <hr id=answer>
 {{Oneida}}{{Oneida Audio}}
 <div style='font-size: 15px;'>{{Dialect}}</div>
-<br>
 <i>{{Oneida Example}}{{Oneida Example Audio}}</i>
 <div style='font-size: 15px;'>{{Example in English}}</div>
 {{Image}}
