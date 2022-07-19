@@ -4,14 +4,13 @@ My anki deck for the Oneida Language
 ## Card 1: Oneida -> English
 ### Front
 ```
-{{Oneida}}
+{{Oneida}}{{Oneida Audio}}
 <div style='font-size: 15px;'>{{Dialect}}</div>
 ```
 ### Back
 ```
 {{FrontSide}}
 <hr id=answer>
-{{Oneida Audio}}
 <br>
 {{English}}
 <br>
