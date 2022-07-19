@@ -3,10 +3,8 @@
 # Note Type Code
 ## Front
 ```
-{{Gender}}
-<br>
-{{Oneida Word}}
-{{Dialect}}
+{{Oneida}}
+<div style='font-size: 15px;'>{{Dialect}}</div>
 ```
 ## Back
 ```
@@ -14,11 +12,10 @@
 <hr id=answer>
 {{Oneida Audio}}
 <br>
-{{English Word}}
+{{English}}
 <br>
-{{Oneida Sentence}}{{Oneida Sentence Audio}}
-<br>
-<p>{{English Sentence}}</p>
+<i>{{Oneida Sentence}}{{Oneida Sentence Audio}}</i>
+<div style='font-size: 15px;'>{{English Sentence}}</div>
 {{Image}}
 ```
 ## Styling
@@ -29,9 +26,5 @@
   text-align: center;
   color: black;
   background-color: white;
-}
-
-p {
-  font-size: 15px;
 }
 ```
