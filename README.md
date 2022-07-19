@@ -36,11 +36,11 @@ My anki deck for the Oneida Language
 ### Front
 ```
 {{Oneida Example}}{{Oneida Example Audio}}
-<div style='font-size: 15px;'>{{Dialect}}</div>
 ```
 ### Back
 ```
 {{FrontSide}}
+<div style='font-size: 15px;'>{{Dialect}}</div>
 <hr id=answer>
 {{Example in English}}
 ```
